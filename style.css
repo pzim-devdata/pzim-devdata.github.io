@@ -1,0 +1,22 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+/* dimension et positionnement du bloc conteneur de l'image */
+#arriere {
+	position: absolute;
+	
+	height : 50%;
+	width : 100%;
+}
+
+#arriere p {
+	position: absolute;	/* placement du texte par-dessus l'image */
+	text-align: center;
+	font-size: 1.5em;
+	color: blue;
+}
+
+
