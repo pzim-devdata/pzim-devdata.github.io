@@ -2,46 +2,46 @@
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/pzim-devdata/pzim-devdata.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[![GitHub license](https://img.shields.io/github/license/pzim-devdata/Tools-for-Debian?style=plastic)](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/LICENSE)    ![](https://img.shields.io/badge/Works%20with-Python%203-red?style=plastic)    [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=plastic)](https://www.python.org/)   [![GitHub issues](https://img.shields.io/github/issues/pzim-devdata/Tools-for-Debian?style=plastic)](https://github.com/pzim-devdata/Tools-for-Debian/issues)    ![GitHub repo size](https://img.shields.io/github/repo-size/pzim-devdata/Tools-for-Debian?style=plastic)    ![GitHub All Releases](https://img.shields.io/github/downloads/pzim-devdata/Tools-for-Debian/total?style=plastic)    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/pzim-devdata/Tools-for-Debian?style=plastic)    [![GitHub commits](https://img.shields.io/github/commits-since/pzim-devdata/Tools-for-Debian/v1.0.0.svg?style=plastic)](https://GitHub.com/pzim-devata/Tools-for-Debian/commit/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Here are many tools to configure Linux :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [VPNautoconnect](https://github.com/pzim-devdata/Tools-for-Debian/tree/master/VPNautoconnect) : 
 
-```markdown
-Syntax highlighted code block
+[Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/VPNautoconnect.zip)
 
-# Header 1
-## Header 2
-### Header 3
+A script to automatically connect to the VPN at startup (if you lauch this script at startup) and reconnect if connection is lost.
 
-- Bulleted
-- List
+- [Volumouse]( https://github.com/pzim-devdata/Tools-for-Debian/tree/master/Volumouse) :
 
-1. Numbered
-2. List
+[Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Volumouse.zip)
 
-**Bold** and _Italic_ and `Code` text
+A Python 3 program that allows you to change the volume with the mouse wheel by using it in the four corners of the screen
 
-[Link](url) and ![Image](src)
+- [Startminimized](https://github.com/pzim-devdata/Tools-for-Debian/tree/master/Startminimized) :
+
+[Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Startminimized.zip)
+
+A Python 3 program that allows you to start a program minimized. For exemple Thunderbird. To execute it tap : 
+```ps
+python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Start_in_another_workspace](https://github.com/pzim-devdata/Tools-for-Linux/tree/master/Start_in_another_workspace)
 
-### Jekyll Themes
+[Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Start_in_another_workspace.zip)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pzim-devdata/pzim-devdata.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A script for starting a program in another workspace for Linux. Works with wmctrl. 
 
-### Support or Contact
+--------------------------------------------
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## - [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE)
+MIT License
+Copyright (c) 2019 pzim-devdata
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+--------------------------------------------
+
+## - [Contact :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
+Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
