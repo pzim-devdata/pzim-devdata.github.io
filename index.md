@@ -15,19 +15,19 @@
 
 - [VPNautoconnect](https://github.com/pzim-devdata/Tools-for-Debian/tree/master/VPNautoconnect) : 
 
-[Download ](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/VPNautoconnect.zip):inbox_tray:
+[Download ](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/VPNautoconnect.zip)
 
 A script to automatically connect to the VPN at startup (if you lauch this script at startup) and reconnect if connection is lost.
 
 - [Volumouse]( https://github.com/pzim-devdata/Tools-for-Debian/tree/master/Volumouse) :
 
-[Download ](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Volumouse.zip):inbox_tray:
+[Download ](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Volumouse.zip)
 
 A Python 3 program that allows you to change the volume with the mouse wheel by using it in the four corners of the screen
 
 - [Startminimized](https://github.com/pzim-devdata/Tools-for-Debian/tree/master/Startminimized) :
 
-[Download ](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Startminimized.zip):inbox_tray:
+[Download ](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Startminimized.zip)
 
 A Python 3 program that allows you to start a program minimized. For exemple Thunderbird. To execute it tap : 
 ```ps
@@ -37,7 +37,7 @@ python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird
 
 - [Start_in_another_workspace](https://github.com/pzim-devdata/Tools-for-Linux/tree/master/Start_in_another_workspace)
 
-[Download ](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Start_in_another_workspace.zip):inbox_tray:
+[Download ](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Start_in_another_workspace.zip)
 
 A script for starting a program in another workspace for Linux. Works with wmctrl. 
 
