@@ -43,7 +43,7 @@ A script for starting a program in another workspace for Linux. Works with wmctr
 
 --------------------------------------------
 
-# - [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE)
+# - [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE) :copyright:
 MIT License
 Copyright (c) 2019 pzim-devdata
 
