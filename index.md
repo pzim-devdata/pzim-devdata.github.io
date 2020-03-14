@@ -1,16 +1,16 @@
-# Visit my GitHub [profil](https://github.com/pzim-devdata) :house_with_garden:
+# Visit my GitHub [profil](https://github.com/pzim-devdata) 
 
 --------------------------------------------
 
-# See my [projects](https://github.com/pzim-devdata/DATA-developer) as Python Data Developer :blue_book: 
+# See my [projects](https://github.com/pzim-devdata/DATA-developer) as Python Data Developer 
 
 --------------------------------------------
 
-# My [skills and training certificates](https://github.com/pzim-devdata/Skills-and-training-certificates) :mortar_board: 
+# My [skills and training certificates](https://github.com/pzim-devdata/Skills-and-training-certificates) 
 
 --------------------------------------------
 
-# Here are [many tools](https://github.com/pzim-devdata/Tools-for-Linux) to configure Linux :computer:
+# Here are [many tools](https://github.com/pzim-devdata/Tools-for-Linux) to configure Linux 
 [![GitHub license](https://img.shields.io/github/license/pzim-devdata/Tools-for-Debian?style=plastic)](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/LICENSE)    ![](https://img.shields.io/badge/Works%20with-Python%203-red?style=plastic)    [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=plastic)](https://www.python.org/)   [![GitHub issues](https://img.shields.io/github/issues/pzim-devdata/Tools-for-Debian?style=plastic)](https://github.com/pzim-devdata/Tools-for-Debian/issues)    ![GitHub repo size](https://img.shields.io/github/repo-size/pzim-devdata/Tools-for-Debian?style=plastic)    ![GitHub All Releases](https://img.shields.io/github/downloads/pzim-devdata/Tools-for-Debian/total?style=plastic)    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/pzim-devdata/Tools-for-Debian?style=plastic)    [![GitHub commits](https://img.shields.io/github/commits-since/pzim-devdata/Tools-for-Debian/v1.0.0.svg?style=plastic)](https://GitHub.com/pzim-devata/Tools-for-Debian/commit/)
 
 - [VPNautoconnect](https://github.com/pzim-devdata/Tools-for-Debian/tree/master/VPNautoconnect) : 
@@ -43,11 +43,11 @@ A script for starting a program in another workspace for Linux. Works with wmctr
 
 --------------------------------------------
 
-# - [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE) :copyright:
+# - [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE) 
 MIT License
 Copyright (c) 2019 pzim-devdata
 
 --------------------------------------------
 
-# - [Contact ](mailto:contact@pzim.fr?subject=Contact%20from%20Github) :email: 
+# - [Contact ](mailto:contact@pzim.fr?subject=Contact%20from%20Github)  
 Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
