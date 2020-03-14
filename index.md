@@ -2,19 +2,19 @@
 
 ## Visit my GitHub profil :
 
-[![](https://github.com/pzim-devdata/pzim-devdata.github.io/blob/master/images/gitwhite.png)](https://github.com/pzim-devdata)
+[![](https://github.com/pzim-devdata/pzim-devdata.github.io/blob/master/images/github_black.png)](https://github.com/pzim-devdata)
 
 --------------------------------------------
 
 ## See my projects as Python Data Developer:blue_book: :
 
-[![](https://github.com/pzim-devdata/pzim-devdata.github.io/blob/master/images/mon_profil.jpeg)(https://github.com/pzim-devdata/DATA-developer)
+[![](https://github.com/pzim-devdata/pzim-devdata.github.io/blob/master/images/mon_profil.jpeg)](https://github.com/pzim-devdata/DATA-developer)
 
 --------------------------------------------
 
 ## My skills and training certificates :
 
-[![](https://github.com/pzim-devdata/pzim-devdata.github.io/blob/master/images/skills.png)(https://github.com/pzim-devdata/Skills-and-training-certificates)
+[![](https://github.com/pzim-devdata/pzim-devdata.github.io/blob/master/images/skills.png)](https://github.com/pzim-devdata/Skills-and-training-certificates)
 
 --------------------------------------------
 
