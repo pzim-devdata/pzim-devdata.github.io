@@ -49,5 +49,5 @@ Copyright (c) 2019 pzim-devdata
 
 --------------------------------------------
 
-# - [Contact ](mailto:pizim@posteo.net?subject=Contact%20from%20Github) :email: 
+# - [Contact ](mailto:contact@pzim.fr?subject=Contact%20from%20Github) :email: 
 Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
