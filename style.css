@@ -56,6 +56,11 @@ text-decoration: none;
 color: white;
 }
 
+#link_in_p {
+text-decoration: none;
+color: blue;
+}
+  
 section {
 text-align:center;
 position : relative;
