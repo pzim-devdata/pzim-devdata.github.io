@@ -51,6 +51,11 @@ text-align:center;
 font-size: 25px;
 color : black;
 }
+
+h1{
+font-size: 20px;
+color : black;  
+}
 a:link, a:hover, a:focus, a:active, a:visited {
 text-decoration: none;
 color: white;
