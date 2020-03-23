@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset>
   <url>
-    <loc>http://pzim.fr/</loc>
+    <loc>https://pzim.fr/</loc>
     <lastmod>2020-03-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -26,12 +26,6 @@
   </url>
   <url>
     <loc>https://github.com/pzim-devdata/DATA-developer</loc>
-    <lastmod>2020-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>contact@pzim.fr</loc>
     <lastmod>2020-03-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
