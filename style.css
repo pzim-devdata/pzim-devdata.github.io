@@ -47,8 +47,9 @@ width : 100%;
 
 #arriere_2 {
 text-align: center;
-position: relative;
-z-index: 0;
+position: static;
+height : 50%;
+width : 50%;
 
 }
 
