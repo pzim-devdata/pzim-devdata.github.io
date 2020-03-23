@@ -44,6 +44,12 @@ height : 70%;
 width : 100%;
 }
 
+#arriere_2 {
+position: static;
+height : 50%;
+width : 50%;
+}
+
 #devant {
 position : relative;
 top:-70%;
