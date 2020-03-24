@@ -51,8 +51,8 @@ height: 80%;
 #arriere_2 {
 text-align: center;
 position: static;
-height : 50%;
-width : 50%;
+height : calc(2.5vmin);
+width : calc(2.5vmin);
 
 }
 
@@ -81,7 +81,7 @@ color: blue;
 section {
 text-align:center;
 position : relative;
-top:calc(-17vmin);
+top:-25%;
 }
 
 footer {
