@@ -85,7 +85,7 @@ top:-21%;
 }
 
 p {
-font-size: 25px;
+font-size: calc(3vmin);
 }
 
 footer {
