@@ -8,11 +8,11 @@ color : black;
 }
 
 @media (max-width: @screen-xs) {
-    body{font-size: 10px;}
+    #head{font-size: 10px;}
 }
 
 @media (max-width: @screen-sm) {
-    body{font-size: 14px;}
+    #head{font-size: 14px;}
 }
 
 header {
