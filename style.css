@@ -32,7 +32,7 @@ color: white;
 #right {
 
 max-width: calc(4vw + 4vh + 2vmin);
-height: 100%;
+height: calc(4vw + 4vh + 2vmin);
 display: inline;
 list-style-type:none;
 color: white;
