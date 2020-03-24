@@ -80,7 +80,16 @@
 		</header>
 		
 		<div id="arriere">
-			<img  id="arriere" alt="" src="https://raw.githubusercontent.com/pzim-devdata/pzim-devdata.github.io/master/images/Banniere.webp" />
+			<picture id="arriere">
+			  <source id="arriere" srcset="
+			    /images/Banniere.webp 1x,
+			    /images/Banniere.webp 2x" type="image/webp">
+			  <source id="arriere" srcset="
+			    /images/Banniere.jpg 1x, 
+			    /images/Banniere.jpg 2x" type="image/jpeg">
+			   <img src="/images/Banniere.jpg">
+			</picture>
+			
 		</div>
 		<div id="devant">
 			<p>Bienvenue sur mon site Github !</p>
