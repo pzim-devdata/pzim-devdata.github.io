@@ -12,7 +12,7 @@ color : black;
 }
 
 @media (max-width: @screen-sm) {
-    #head{font-size: 10px;}
+    #head{font-size: 5px;}
 }
 
 
