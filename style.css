@@ -60,12 +60,12 @@ width : 70%;
 position : relative;
 top:-70%;
 text-align:center;
-font-size: calc(3vmin);
+font-size: calc(4vmin);
 color : black;
 }
 
 h1{
-
+font-size: calc(3.5vmin);
 color : black;  
 }
 a:link, a:hover, a:focus, a:active, a:visited {
