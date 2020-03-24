@@ -65,7 +65,7 @@ color : black;
 }
 
 h1{
-font-size: calc(3vmin);
+
 color : black;  
 }
 a:link, a:hover, a:focus, a:active, a:visited {
@@ -85,7 +85,7 @@ top:-21%;
 }
 
 p {
-font-size: calc(3vmin);
+
 }
 
 footer {
