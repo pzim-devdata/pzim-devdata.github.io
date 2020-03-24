@@ -31,7 +31,7 @@ color: white;
 
 #right {
 
-max-width: calc(4vw + 4vh + 2vmin);
+width: calc(4vw + 4vh + 2vmin);
 height: calc(4vw + 4vh + 2vmin);
 display: inline;
 list-style-type:none;
