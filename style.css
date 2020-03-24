@@ -30,7 +30,7 @@ color: white;
 }
 
 #right {
-font-size:25px;
+font-size:calc(2.5vmin);
 width: 25px;
 height: 25px;
 display: inline;
