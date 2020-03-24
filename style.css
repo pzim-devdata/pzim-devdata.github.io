@@ -12,7 +12,7 @@ color : black;
 }
 
 @media (max-width: @screen-sm) {
-    body{font-size: 14px;}
+    body{font-size: 10px;}
 }
 
 
