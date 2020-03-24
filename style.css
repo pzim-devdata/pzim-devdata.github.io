@@ -59,12 +59,12 @@ width : 50%;
 position : relative;
 top:-70%;
 text-align:center;
-font-size: 2.5ev;
+font-size: 2.5px;
 color : black;
 }
 
 h1{
-font-size: 2ev;
+font-size: 2px;
 color : black;  
 }
 a:link, a:hover, a:focus, a:active, a:visited {
