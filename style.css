@@ -22,7 +22,7 @@ top:0px;
 
 #head {
 
-font-size: calc(1vw + 1vh + 1vmin);
+font-size: calc(2.5vmin);
 
 display: inline;
 list-style-type:none;
