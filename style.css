@@ -51,8 +51,8 @@ height: 80%;
 #arriere_2 {
 text-align: center;
 position: static;
-height : auto;
-width : calc(25vmin);
+height : calc(30vmin);
+width : auto;
 
 }
 
