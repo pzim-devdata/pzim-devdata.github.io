@@ -7,15 +7,6 @@ background-color : snow;
 color : black;
 }
 
-@media (max-width: @screen-xs) {
-    #head{font-size: 10px;}
-}
-
-@media (max-width: @screen-sm) {
-    #head{font-size: 5px;}
-}
-
-
 header {
 height : 8%;
 width : 100%;
@@ -32,15 +23,15 @@ top:0px;
 #head {
 
 
-
+font-size: 2.5em;
 display: inline;
 list-style-type:none;
 color: white;
 }
 
 #right {
-font-size: 25px;
-font-size: 2.5vw;
+
+font-size: 2.5em;
 display: inline;
 list-style-type:none;
 color: white;
