@@ -31,7 +31,8 @@ color: white;
 
 #right {
 
-background-size: 25%;
+max-width: 100%;
+	height: auto;
 display: inline;
 list-style-type:none;
 color: white;
