@@ -12,7 +12,7 @@ color : black;
 }
 
 @media (max-width: @screen-sm) {
-    #head{font-size: 14px;}
+    #head{font-size: 1x;}
 }
 
 header {
