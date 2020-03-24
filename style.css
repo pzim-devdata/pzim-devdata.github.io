@@ -44,8 +44,8 @@ right: 5%;
 
 #arriere {
 position: static;
-height : 80%;
-width : 100%;
+max-width: 100%;
+	height: auto;
 }
 
 #arriere_2 {
