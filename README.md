@@ -19,7 +19,7 @@ This is my Github Pages website : https://pzim.fr
 
 ## - [Licence](https://raw.githubusercontent.com/pzim-devdata/pzim-devdata.github.io/master/LICENSE)
 MIT License
-Copyright (c) 2019 pzim-devdata
+Copyright (c) 2020 pzim-devdata
 
 --------------------------------------------
 
