@@ -13,7 +13,9 @@ This is my Github Pages website : https://pzim.fr
 
 ## Voici les mots du jour :
 
-![](https://raw.githubusercontent.com/pzim-devdata/Git_repo/master/mots_du_jour.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pzim-devdata/Git_repo/master/mots_du_jour.webp">
+</p>
 
 --------------------------------------------
 
