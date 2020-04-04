@@ -57,9 +57,15 @@
       
 
     </script>
+    <script>
+    function myFunction() {
+      var x = document.lastModified;
+      document.getElementById("demo").innerHTML = x;
+    }
+    </script>
 
   	</head>
-	<body>
+	<body onload="myFunction()">
 		<header>
 			
 			<ul>
@@ -97,6 +103,7 @@
 		</div>
 		<section>
 			<h1 id="h1">These are the words of the day on Twitter : <br><br>		</h1>
+			<p>Last update : <span id="demo"></span></p>
 			<div>
 			    
 				<picture>
