@@ -11,7 +11,7 @@ This is my Github Pages website : https://pzim.fr
 
 --------------------------------------------
 
-## Copie du site [pzim.fr](https://pzim.;fr) :
+## Copie du site [pzim.fr](https://pzim.fr) :
 
 ![](https://raw.githubusercontent.com/pzim-devdata/pzim-devdata.github.io/master/images/Capture_Site_internet_Github.webp)
 
