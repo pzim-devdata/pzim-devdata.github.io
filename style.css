@@ -63,6 +63,14 @@ height : 70%;
 width : 70%;
 }
 
+#devant {
+position : relative;
+top:-21vw;
+text-align:center;
+font-size: 3.5vw;
+color : black;
+}
+
 #return-to-top {
     position: fixed;
     bottom: 20px;
