@@ -80,7 +80,13 @@ color : black;
 text-decoration: none;
 color: blue;
 }
- 
+  
+section {
+text-align:center;
+position : relative;
+
+}
+
 #return-to-top {
     position: fixed;
     bottom: 20px;
