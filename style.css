@@ -30,6 +30,16 @@ text-decoration: none;
 color: white;
 }
 
+#head {
+position: relative;
+font-size: 2.5vw;
+display: inline;
+list-style-type:none;
+color: white;
+top:calc(0.1vmin);
+text-decoration: none;
+}
+
 #return-to-top {
     position: fixed;
     bottom: 20px;
