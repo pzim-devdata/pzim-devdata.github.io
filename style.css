@@ -7,6 +7,19 @@ background-color : snow;
 color : black;
 }
 
+header {
+height : calc(9vmin);
+max-width : 100%;
+background-color : black;
+text-align:center;
+display: flex; /* contexte sur le parent */
+flex-direction: column; /* direction d'affichage verticale */
+justify-content: center; /* alignement vertical */
+position: sticky;
+z-index: 5;
+top:0px;
+}
+
 #return-to-top {
     position: fixed;
     bottom: 20px;
