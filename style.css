@@ -76,6 +76,11 @@ font-size: 3vw;
 color : black;  
 }
 
+#link_in_p {
+text-decoration: none;
+color: blue;
+}
+ 
 #return-to-top {
     position: fixed;
     bottom: 20px;
