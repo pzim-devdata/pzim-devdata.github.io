@@ -25,6 +25,11 @@ text-decoration: none;
 color: white;
 }
 
+#alink{
+text-decoration: none;
+color: white;
+}
+
 #return-to-top {
     position: fixed;
     bottom: 20px;
