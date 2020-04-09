@@ -83,8 +83,21 @@ color: blue;
   
 section {
 text-align:center;
+}
 
+p {
+font-size: 2.5vw
+}
 
+footer {
+height : 6%;
+width : 100%;
+text-align:center;
+display: flex; /* contexte sur le parent */
+flex-direction: column; /* direction d'affichage verticale */
+justify-content: center; /* alignement vertical */
+background:#ccc;
+bottom:0;
 }
 
 #return-to-top {
