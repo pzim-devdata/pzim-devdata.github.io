@@ -244,6 +244,7 @@ color: white;
 }*/
 
 #section01 a {
+  position:absolute;
   padding-top: 6vw;
   text-align: center;
 }
