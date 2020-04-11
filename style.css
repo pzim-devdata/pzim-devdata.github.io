@@ -182,7 +182,7 @@ font-size: 3vw;
   /*white-space: nowrap;*/
 }
   
-
+#section02 {position: relative; top: -3vw}
 
 
 .demo a {
