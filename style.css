@@ -205,17 +205,18 @@ font-size: 3vw;
   color: #888;
 }
 
-.demo a:visited {
+/*.demo a:visited {
 opacity: .3s;
   text-decoration: none;
   color: white;
 }
+*/
 /*
 a:link, a:hover, a:focus, a:active, a:visited {
 text-decoration: none;
 color: white;
 }*/
-
+/*
 #section01 a {
   padding-top: 60px;
 }
@@ -232,7 +233,7 @@ color: white;
   transform: rotate(-45deg);
   box-sizing: border-box;
 }
-
+*/
 /*
 #section02 a {
   padding-top: 60px;
@@ -262,10 +263,11 @@ color: white;
   transform: rotate(-45deg);
   box-sizing: border-box;
 }
-#section03 a {
+*/
+#section01 a {
   padding-top: 60px;
 }
-#section03 a span {
+#section01 a span {
   position: absolute;
   top: 0;
   left: 50%;
@@ -276,7 +278,7 @@ color: white;
   border-radius: 100%;
   box-sizing: border-box;
 }
-#section03 a span::after {
+#section01 a span::after {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -290,7 +292,7 @@ color: white;
   transform: rotate(-45deg);
   box-sizing: border-box;
 }
-#section03 a span::before {
+#section01 a span::before {
   position: absolute;
   top: 0;
   left: 0;
@@ -335,6 +337,8 @@ color: white;
     opacity: 0;
   }
 }
+
+/*
 #section04 a {
   padding-top: 60px;
 }
