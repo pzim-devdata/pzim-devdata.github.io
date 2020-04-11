@@ -201,7 +201,7 @@ bottom:0;
   transition: opacity .3s;
 }
 .demo a:hover {
-  opacity: .5;
+  opacity: .3s;
   text-decoration: none;
 }
 
