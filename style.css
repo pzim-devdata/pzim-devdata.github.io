@@ -180,7 +180,7 @@ bottom:0;
   padding-top: 60px;
 }
 #section01 a span {
-  position: relative;
+  position: absolute;
   top: 0;
   left: 50%;
   width: 24px;
