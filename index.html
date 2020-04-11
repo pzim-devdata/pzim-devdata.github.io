@@ -259,6 +259,18 @@ Copyright (c) 2020 pzim-devdata
 			</script>
 			
 			<script src="//code.jquery.com/jquery-3.4.1.min.js"></script>
+			
+			
+			<script>
+			$(function() {
+  				$('a[href*=#]').on('click', function(e) {
+ 					e.preventDefault();
+    					$('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+  									});
+					});
+			</script>
+			
+			
 			<script>
 			// ===== Scroll to Top ==== 
 			$(window).scroll(function() {
