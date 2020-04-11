@@ -146,9 +146,7 @@ bottom:0;
 
 
 
-* {
-  margin: 0;
-  padding: 0;
+
 
 #section01 { background: url(https://picsum.photos/1200/800?image=575) center center / cover no-repeat; position: relative; width: 100%; height: 100%;}
 #section02 { background: url(https://picsum.photos/1200/800?image=1016) center center / cover no-repeat; position: relative; width: 100%; height: 100%;}
