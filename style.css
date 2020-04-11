@@ -203,6 +203,7 @@ bottom:0;
 .demo a:hover {
   opacity: .3s;
   text-decoration: none;
+  color: #888;
 }
 
 
