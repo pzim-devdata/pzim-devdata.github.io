@@ -148,7 +148,7 @@ bottom:0;
 
 
 
-#section01 { background: <picture >
+#section01 { background-image: <picture >
 			  <source srcset="
 			    images/Banniere.webp 1x,
 			    images/Banniere.webp 2x" type="image/webp">
