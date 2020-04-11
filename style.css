@@ -251,16 +251,17 @@ color: white;
 #section01 a span {
   position: absolute;
   top: 0;
-  text-align: center;
-  width: 2.4vw;
-  height: 2.4vw;
-  margin-left: -1.2vw;
-  border-left: 0.1vw solid #fff;
-  border-bottom: 0.1vw solid #fff;
+  left: 50%;
+  width: 24px;
+  height: 24px;
+  margin-left: -12px;
+  border-left: 1px solid #fff;
+  border-bottom: 1px solid #fff;
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
   box-sizing: border-box;
 }
+
 
 /*
 
