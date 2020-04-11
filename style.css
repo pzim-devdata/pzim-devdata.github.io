@@ -244,16 +244,16 @@ color: white;
 }*/
 
 #section01 a {
-  padding-top: 60px;
+  padding-top: 6vw;
     text-align: center;
 }
 #section01 a span {
   position: absolute;
   top: 0;
   text-align: center;
-  width: 24px;
-  height: 24px;
-  margin-left: -12px;
+  width: 2.4vw;
+  height: 2.4vw;
+  margin-left: -1.2vw;
   border-left: 1px solid #fff;
   border-bottom: 1px solid #fff;
   -webkit-transform: rotate(-45deg);
