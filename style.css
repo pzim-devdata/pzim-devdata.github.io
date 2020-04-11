@@ -173,9 +173,9 @@ bottom:0;
 
 #section01 h1 {
   position: relative;
+top 3vw;
 
-
-font-size: 3.5vw;
+font-size: 3vw;
   z-index: 2;
  /* -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);*/
