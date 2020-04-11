@@ -202,7 +202,7 @@ font-size: 3vw;
   text-decoration: none;
   transition: opacity .3s;
 }
-.demo a:hover {
+.demo a:hover, a:visited{
   opacity: .3s;
   text-decoration: none;
   color: #888;
