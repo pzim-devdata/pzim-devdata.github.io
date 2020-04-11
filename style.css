@@ -206,9 +206,7 @@ font-size: 3vw;
 }
 
 .demo a:visited {
-opacity: .3s;
-  text-decoration: none;
-  color: #888;
+text-decoration: none;
 }
 /*
 a:link, a:hover, a:focus, a:active, a:visited {
