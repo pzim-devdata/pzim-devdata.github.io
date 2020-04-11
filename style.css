@@ -225,6 +225,8 @@ font-size: 3vw;
   letter-spacing: .1em;*/
   text-decoration: none;
   transition: opacity .3s;
+  padding-top: 6vw;
+  font-size: 2.5vw;
 }
 .demo a:hover {
   opacity: .3s;
@@ -244,10 +246,7 @@ color: white;
 }*/
 
 #section01 a {
-  position:absolute;
-  padding-top: 6vw;
-  text-align: center;
-  font-size: 2.5vw;
+  
 }
 #section01 a span {
   position: absolute;
