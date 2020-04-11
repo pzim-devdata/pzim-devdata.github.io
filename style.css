@@ -234,7 +234,7 @@ bottom:0;
 .demo a:visited {
 opacity: .3s;
   text-decoration: none;
-  color: #888;
+  color: white;
 }
 /*
 a:link, a:hover, a:focus, a:active, a:visited {
