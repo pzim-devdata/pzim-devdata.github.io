@@ -147,7 +147,8 @@ bottom:0;
   height: 100%;}
 #section02 { background: url(https://picsum.photos/1200/800?image=1016) center center / cover no-repeat; width: 100%;
   height: 100%;}
-#section03 { background: url(https://picsum.photos/1200/800?image=869) center center / cover no-repeat;}
+#section03 { background: url(https://picsum.photos/1200/800?image=869) center center / cover no-repeat;width: 100%;
+  height: 100%;}
 #section04 { background: url(https://picsum.photos/1200/800?image=506) center center / cover no-repeat;}
 #section05 { background: url(https://picsum.photos/1200/800?image=1037) center center / cover no-repeat;}
 #section06 { background: url(https://picsum.photos/1200/800?image=901) center center / cover no-repeat;}
