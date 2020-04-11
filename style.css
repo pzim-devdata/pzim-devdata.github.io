@@ -10,7 +10,7 @@ color : black;
 }
 
 header {
-height : calc(9vmin);
+height : 9vw;
 max-width : 100%;
 background-color : black;
 text-align:center;
