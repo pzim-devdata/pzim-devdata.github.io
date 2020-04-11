@@ -177,12 +177,12 @@ bottom:0;
 
 font-size: 3.5vw;
   z-index: 2;
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+ /* -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);*/
   color: black;
-  font : normal 300 64px/1 'Josefin Sans', sans-serif;
+  /*font : normal 300 64px/1 'Josefin Sans', sans-serif;*/
   text-align: center;
-  white-space: nowrap;
+  /*white-space: nowrap;*/
 }
   
 
