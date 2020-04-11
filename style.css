@@ -246,12 +246,12 @@ color: white;
 }*/
 
 #section01 a {
-  padding-top: 60px;
+  padding-top: 5vw;
 }
 #section01 a span {
   position: absolute;
   top: 0;
-  left: 50%;
+  text-align: center;
   width: 24px;
   height: 24px;
   margin-left: -12px;
