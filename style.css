@@ -214,7 +214,7 @@ font-size: 3vw;
 
 .demo a {
   position: absolute;
-  bottom: 20px;
+  bottom: 5vw;
   left: 50%;
   z-index: 2;
   display: inline-block;
@@ -244,7 +244,7 @@ color: white;
 }*/
 
 #section01 a {
-  padding-top: 60vw;
+  padding-top: 60px;
 }
 #section01 a span {
   position: absolute;
