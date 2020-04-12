@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html>
   	<head>
 		<meta name="description" content="Welcome to the pzim.fr website! Consult the 'words of the day' most used on Twitter in France and around the world.">
 		<meta name="keywords" content="Words of the day, words of today, word of the day, words of the day, twitter, Twitter, most common, most common words on Twitter, GitHub pages, pzim.fr, pzim, pzim-devdata, Wordcloud, wordcloud, mot de jour, mots d'aujourd'hui, mot du jour sur twitter, news, actualité, quel est le mot le plus utilisé sur Twitter, mot le plus utilise sur Twitter">
@@ -32,7 +32,7 @@
 		<meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
 		
-		<title>Welcome to my Github website</title>
+		<title>Bienvenue sur mon site Github</title>
 		<script type="application/ld+json">
 		
     {
@@ -65,7 +65,7 @@
   	</head>
 	
 	
-	<body onload="myFunction(); aa()">
+	<body onload="myFunction()">
 		
 		<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
 		<!-- ICON NEEDS FONT AWESOME FOR CHEVRON UP ICON -->
@@ -92,7 +92,7 @@
 			
 		</header>
 		
-		<!--
+		
 		<section>
 		<div id="arriere">
 			<picture >
@@ -107,45 +107,10 @@
 			
 		</div>
 		<div id="devant">
-			<p id="devant">Welcome to my Github website !</p>
+			<p id="devant">Bienvenue sur mon site Github !</p>
 		</div>
 		</section>
-		-->
-		
-		
-		<section id="section01" class="demo">
-  			<h1>Welcome to my Github website !</h1>
-  			<!--<a href="#section02"><span></span>Scroll</a>-->
-			
-		</section>
-		<!--
-		<section id="section02" class="demo">
- 			 <h1>Scroll Down Button #2</h1>
- 			 <a href="#section03"><span></span>Scroll</a>
-		</section>
-		
-		<section id="section03" class="demo">
-		  <h1>Scroll Down Button #3</h1>
-		  <a href="#section04"><span></span>Scroll</a>
-		</section>
-		
-		-->
-		
-		
-		
-		
-		
-		<section id="section02" style="background-color:snow;">
-			<div id="google_translate_element" style="position: relative; text-align: left; left: 3.5vw; top: 0.5vw;"></div>
-
-			<script type="text/javascript">
-			function googleTranslateElementInit() {
-			  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-			}
-			</script>
-
-			<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
+		<section style="background-color:snow;">
 			<h1 id="h1">These are the words of the day on Twitter : <br><br>		</h1>
 			<p>Last update on : <span id="demo"></span> GMT<br><br></p>
 									
@@ -180,33 +145,25 @@
  me !<br><br>
 			</p>
 		</section>
-		<section style="background-color:OldLace;">
-			<p><br><br></p>
-			<h1 id="h1">This is a real-time analysis of the CAC40 stock market index :<br><br><br>		</h1>
+		<section style="background-color:gold;">
+			<h1 id="h1">This is a real-time analysis of the CAC40 stock market index :<br><br>		</h1>
 			
 			<div>
 				<p>
-			<object data="CAC40.html" type="text/html"  width="100%" min-height="100vw"
-max-height="600vw" height="600vw"></object>
+			<object data="CAC40.html" type="text/html"  width="100%"
+height="400vw"></object>
 				</p>
 			</div>
-			<p><br>This text comes from a program running on a <br> server which automatically checks the CAC40 share price. <br> <br> It was created by myself. <br> <br> You can check the Python code of this self-generated text on the <a id = "link_in_p" href = "https://github.com/pzim-devdata/Git_repo/blob/master/yfinanc.py" > GitHub page of pzim-devdata</a> !
-			</p>
-			<p><br>Feel free to 
-<a id="link_in_p" href="mailto:contact@pzim.fr?Subject=Contact%20from%20Git" target="_top">contact</a>
- me !<br><br>
-			</p>
-			<p>
-				MIT <a id = "link_in_p" href = "https://github.com/pzim-devdata/Git_repo/blob/master/LICENSE" >licence</a><br>
-Copyright (c) 2020 pzim-devdata
-			</p>
-			
-			<audio controls preload="metadata" autoplay loop >
-				<source src ="https://github.com/pzim-devdata/Git_repo/raw/master/aa.mp3" type="audio/mpeg">
-				<source src ="https://github.com/pzim-devdata/Git_repo/raw/master/aa.mp3" type="audio/ogg; codecs=vorbis">
-				Your browser can't read audio file
-			</audio>
+		</section>
+		<section>
 		
+			
+				
+			
+		
+		
+			
+			
 			<script 
 			  type="text/JavaScript" 
 			  language="JavaScript">
@@ -258,35 +215,23 @@ Copyright (c) 2020 pzim-devdata
 
 			</script>
 			
-			<!-- <script src="//code.jquery.com/jquery-3.4.1.min.js"></script>-->
-			
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+			<script src="//code.jquery.com/jquery-3.4.1.min.js"></script> 
 			<script>
 			// ===== Scroll to Top ==== 
-			$(window).scroll(function aa() {
+			$(window).scroll(function() {
 			    if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
 				$('#return-to-top').fadeIn(200);    // Fade in the arrow
 			    } else {
 				$('#return-to-top').fadeOut(200);   // Else fade out the arrow
 			    }
 			});
-			$('#return-to-top').click(function aa() {      // When arrow is clicked
+			$('#return-to-top').click(function() {      // When arrow is clicked
 			    $('body,html').animate({
 				scrollTop : 0                       // Scroll to top of body
 			    }, 500);
 			});
-			</script>
-			
-			
-			<script type="text/JavaScript" 
-			  language="JavaScript">
-			$(function() {
-  				$('a[href*=#]').on('click', function(e) {
- 					e.preventDefault();
-    					$('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
-  									});
-					});			
-			</script>
+
+			</script> 
 		</section>
 		
 	    <footer>
