@@ -32,7 +32,7 @@
 		<meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
 		
-		<title>Bienvenue sur mon site Github</title>
+		<title>Welcome to my Github website</title>
 		<script type="application/ld+json">
 		
     {
@@ -65,7 +65,7 @@
   	</head>
 	
 	
-	<body onload="myFunction()">
+	<body onload="myFunction(); aa()">
 		
 		<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
 		<!-- ICON NEEDS FONT AWESOME FOR CHEVRON UP ICON -->
@@ -92,7 +92,7 @@
 			
 		</header>
 		
-		
+		<!--
 		<section>
 		<div id="arriere">
 			<picture >
@@ -107,11 +107,36 @@
 			
 		</div>
 		<div id="devant">
-			<p id="devant">Bienvenue sur mon site Github !</p>
+			<p id="devant">Welcome to my Github website !</p>
 		</div>
 		</section>
-		<section style="background-color:snow;">
-			<div id="google_translate_element"></div>
+		-->
+		
+		
+		<section id="section01" class="demo">
+  			<h1>Welcome to my Github website !</h1>
+  			<a href="#section02"><span></span>Scroll</a>
+			
+		</section>
+		<!--
+		<section id="section02" class="demo">
+ 			 <h1>Scroll Down Button #2</h1>
+ 			 <a href="#section03"><span></span>Scroll</a>
+		</section>
+		
+		<section id="section03" class="demo">
+		  <h1>Scroll Down Button #3</h1>
+		  <a href="#section04"><span></span>Scroll</a>
+		</section>
+		
+		-->
+		
+		
+		
+		
+		
+		<section id="section02" style="background-color:snow;">
+			<div id="google_translate_element" style="position: relative; text-align: left; left: 3.5vw; top: 0.5vw;"></div>
 
 			<script type="text/javascript">
 			function googleTranslateElementInit() {
@@ -233,23 +258,35 @@ Copyright (c) 2020 pzim-devdata
 
 			</script>
 			
-			<script src="//code.jquery.com/jquery-3.4.1.min.js"></script>
+			<!-- <script src="//code.jquery.com/jquery-3.4.1.min.js"></script>-->
+			
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 			<script>
 			// ===== Scroll to Top ==== 
-			$(window).scroll(function() {
+			$(window).scroll(function aa() {
 			    if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
 				$('#return-to-top').fadeIn(200);    // Fade in the arrow
 			    } else {
 				$('#return-to-top').fadeOut(200);   // Else fade out the arrow
 			    }
 			});
-			$('#return-to-top').click(function() {      // When arrow is clicked
+			$('#return-to-top').click(function aa() {      // When arrow is clicked
 			    $('body,html').animate({
 				scrollTop : 0                       // Scroll to top of body
 			    }, 500);
 			});
-
-			</script> 
+			</script>
+			
+			
+			<script type="text/JavaScript" 
+			  language="JavaScript">
+			$(function() {
+  				$('a[href*=#]').on('click', function(e) {
+ 					e.preventDefault();
+    					$('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+  									});
+					});			
+			</script>
 		</section>
 		
 	    <footer>
